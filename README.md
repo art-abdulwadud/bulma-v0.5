@@ -1,4 +1,4 @@
-# bulma-v0.5
+# Bulma v0.5
 Getting started on Bulma CSS Framework
 
 # MIT License
